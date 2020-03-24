@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7f9144e-c004-4343-90dc-569e8f7148ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLvTDKfwFNOPtzjRYHU8x3UYvI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week2/src/reverseArry.java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.StopSwatch">
+    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuadraticEquation" />
+      <module name="week2.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rectangle" />
+      <module name="week2.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StopSwatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StopSwatch" />
+      <module name="week2.3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text" />
+      <module name="week2.3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text" />
+      <module name="week2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StopSwatch" />
+        <item itemvalue="Application.text (1)" />
+        <item itemvalue="Application.QuadraticEquation" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f9144e-c004-4343-90dc-569e8f7148ab" name="Default Changelist" comment="" />
+      <created>1584631194825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584631194825</updated>
+      <workItem from="1584631198520" duration="4325000" />
+      <workItem from="1584670330422" duration="12000000" />
+      <workItem from="1584758699903" duration="5323000" />
+      <workItem from="1584771347093" duration="1305000" />
+      <workItem from="1584773070955" duration="50000" />
+      <workItem from="1584774038843" duration="2965000" />
+      <workItem from="1584791222510" duration="642000" />
+      <workItem from="1584925787195" duration="1281000" />
+      <workItem from="1584930369030" duration="23885000" />
+      <workItem from="1584983758430" duration="507000" />
+      <workItem from="1585017141818" duration="11594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="65" width="671" height="662" key="#printPicture" timestamp="1584694905056">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="376" y="65" width="671" height="662" key="#printPicture/67.27.1299.741@67.27.1299.741" timestamp="1584694905056" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584774148066">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584774148066" />
+    <state width="1253" height="309" key="GridCell.Tab.0.bottom" timestamp="1585041360337">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="309" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585041360337" />
+    <state width="1253" height="309" key="GridCell.Tab.0.center" timestamp="1585041360337">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="309" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585041360337" />
+    <state width="1253" height="309" key="GridCell.Tab.0.left" timestamp="1585041360336">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="309" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585041360336" />
+    <state width="1253" height="309" key="GridCell.Tab.0.right" timestamp="1585041360337">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="309" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585041360337" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585017142217">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1585017142217" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1585037541878">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1585037541878" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/modun2$printPicture.ic" NAME="printPicture Coverage Results" MODIFIED="1584670567780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
